@@ -1,0 +1,561 @@
+,Customer_Name,Date,Quantity,Product_Id
+0,BXX012 New Harvest Wholesale Ltd,31/12/2023,1400.0,1715
+1,HMRC,31/12/2023,1.0,9
+2,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,5.0,2145
+3,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,12.0,2198
+4,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,10.0,2197
+5,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,30.0,2156
+6,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,10.0,2157
+7,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,5.0,1721
+8,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,5.0,1856
+9,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,20.0,1853
+10,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,16.0,2083
+11,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,5.0,2127
+12,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,5.0,2110
+13,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,15.0,2131
+14,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,12.0,2139
+15,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,10.0,2138
+16,BXX010 W Wing Yip PLC (Birmingham),02/01/2024,30.0,1708
+17,HMRC,02/01/2024,1.0,6
+18,HMRC,02/01/2024,1.0,9
+19,LSX001 ASDA Stores Ltd,02/01/2024,320.0,2064
+20,LSX001 ASDA Stores Ltd,02/01/2024,32.0,2068
+21,LSX001 ASDA Stores Ltd,02/01/2024,72.0,1799
+22,HMRC,02/01/2024,1.0,9
+23,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,240.0,2223
+24,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,320.0,2068
+25,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,312.0,2121
+26,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,640.0,2064
+27,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,100.0,1710
+28,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,66.0,2070
+29,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,308.0,2069
+30,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,288.0,1807
+31,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,288.0,1799
+32,ECX002 Sainsbury's Supermarkets Ltd,02/01/2024,576.0,2213
+33,HMRC,02/01/2024,1.0,6
+34,HMRC,02/01/2024,1.0,9
+35,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2110
+36,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2111
+37,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2113
+38,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2114
+39,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2264
+40,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2265
+41,SOX002 Hai Bao 8 Limited,02/01/2024,8.0,2209
+42,SOX002 Hai Bao 8 Limited,02/01/2024,8.0,2211
+43,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2210
+44,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2212
+45,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,2064
+46,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,2065
+47,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,2227
+48,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2303
+49,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2307
+50,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1710
+51,SOX002 Hai Bao 8 Limited,02/01/2024,4.0,2117
+52,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,2118
+53,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2214
+54,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2213
+55,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2215
+56,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,2147
+57,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2143
+58,SOX002 Hai Bao 8 Limited,02/01/2024,4.0,2086
+59,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2152
+60,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2151
+61,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2154
+62,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2155
+63,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2156
+64,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2157
+65,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2158
+66,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1922
+67,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1928
+68,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1721
+69,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1715
+70,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,1718
+71,SOX002 Hai Bao 8 Limited,02/01/2024,10.0,1782
+72,SOX002 Hai Bao 8 Limited,02/01/2024,4.0,1775
+73,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,1791
+74,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,1790
+75,SOX002 Hai Bao 8 Limited,02/01/2024,10.0,1912
+76,SOX002 Hai Bao 8 Limited,02/01/2024,4.0,1792
+77,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,1789
+78,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,1781
+79,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2204
+80,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2205
+81,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2203
+82,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2202
+83,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2200
+84,SOX002 Hai Bao 8 Limited,02/01/2024,0.0,2195
+85,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2199
+86,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2194
+87,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2197
+88,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1735
+89,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2149
+90,SOX002 Hai Bao 8 Limited,02/01/2024,3.0,2150
+91,SOX002 Hai Bao 8 Limited,02/01/2024,4.0,1887
+92,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2250
+93,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1821
+94,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1822
+95,SOX002 Hai Bao 8 Limited,02/01/2024,2.0,1830
+96,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1810
+97,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1801
+98,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1839
+99,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1834
+100,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1837
+101,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1958
+102,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1962
+103,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1963
+104,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2178
+105,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2177
+106,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2174
+107,SOX002 Hai Bao 8 Limited,02/01/2024,4.0,2094
+108,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1973
+109,SOX002 Hai Bao 8 Limited,02/01/2024,0.0,2328
+110,SOX002 Hai Bao 8 Limited,02/01/2024,10.0,2329
+111,SOX002 Hai Bao 8 Limited,02/01/2024,10.0,2327
+112,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1860
+113,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1859
+114,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,2248
+115,SOX002 Hai Bao 8 Limited,02/01/2024,1.0,1748
+116,SOX002 Hai Bao 8 Limited,02/01/2024,0.0,2320
+117,SOX002 Hai Bao 8 Limited,02/01/2024,,2235
+118,HMRC,02/01/2024,1.0,6
+119,HMRC,02/01/2024,1.0,9
+120,BSX005 T Best Diner Ltd,02/01/2024,6.0,2068
+121,BSX005 T Best Diner Ltd,02/01/2024,10.0,2064
+122,BSX005 T Best Diner Ltd,02/01/2024,6.0,2066
+123,BSX005 T Best Diner Ltd,02/01/2024,4.0,2071
+124,BSX005 T Best Diner Ltd,02/01/2024,4.0,2069
+125,BSX005 T Best Diner Ltd,02/01/2024,8.0,2303
+126,BSX005 T Best Diner Ltd,02/01/2024,1.0,2264
+127,BSX005 T Best Diner Ltd,02/01/2024,1.0,2265
+128,BSX005 T Best Diner Ltd,02/01/2024,4.0,2121
+129,BSX005 T Best Diner Ltd,02/01/2024,4.0,2125
+130,BSX005 T Best Diner Ltd,02/01/2024,8.0,2210
+131,BSX005 T Best Diner Ltd,02/01/2024,8.0,2209
+132,BSX005 T Best Diner Ltd,02/01/2024,1.0,1710
+133,BSX005 T Best Diner Ltd,02/01/2024,2.0,1715
+134,BSX005 T Best Diner Ltd,02/01/2024,5.0,1782
+135,BSX005 T Best Diner Ltd,02/01/2024,3.0,1775
+136,BSX005 T Best Diner Ltd,02/01/2024,1.0,2257
+137,BSX005 T Best Diner Ltd,02/01/2024,1.0,2258
+138,BSX005 T Best Diner Ltd,02/01/2024,1.0,2260
+139,BSX005 T Best Diner Ltd,02/01/2024,5.0,2327
+140,BSX005 T Best Diner Ltd,02/01/2024,3.0,2329
+141,BSX005 T Best Diner Ltd,02/01/2024,1.0,2188
+142,BSX005 T Best Diner Ltd,02/01/2024,1.0,2191
+143,BSX005 T Best Diner Ltd,02/01/2024,2.0,2175
+144,BSX005 T Best Diner Ltd,02/01/2024,2.0,2176
+145,BSX005 T Best Diner Ltd,02/01/2024,2.0,2177
+146,BSX005 T Best Diner Ltd,02/01/2024,2.0,2174
+147,BSX005 T Best Diner Ltd,02/01/2024,2.0,2178
+148,BSX005 T Best Diner Ltd,02/01/2024,1.0,2179
+149,BSX005 T Best Diner Ltd,02/01/2024,8.0,2094
+150,BSX005 T Best Diner Ltd,02/01/2024,1.0,1974
+151,BSX005 T Best Diner Ltd,02/01/2024,1.0,1969
+152,BSX005 T Best Diner Ltd,02/01/2024,2.0,1868
+153,BSX005 T Best Diner Ltd,02/01/2024,10.0,1912
+154,HMRC,02/01/2024,1.0,6
+155,HMRC,02/01/2024,1.0,9
+156,BSX014 Bristol Sweet Mart,02/01/2024,120.0,2220
+157,HMRC,02/01/2024,1.0,6
+158,BNX011 Gensier Limited,02/01/2024,1.0,2110
+159,BNX011 Gensier Limited,02/01/2024,2.0,2065
+160,BNX011 Gensier Limited,02/01/2024,2.0,2066
+161,BNX011 Gensier Limited,02/01/2024,2.0,2068
+162,BNX011 Gensier Limited,02/01/2024,4.0,2064
+163,BNX011 Gensier Limited,02/01/2024,2.0,2227
+164,BNX011 Gensier Limited,02/01/2024,3.0,2307
+165,BNX011 Gensier Limited,02/01/2024,3.0,2303
+166,BNX011 Gensier Limited,02/01/2024,1.0,2264
+167,BNX011 Gensier Limited,02/01/2024,1.0,2265
+168,BNX011 Gensier Limited,02/01/2024,1.0,2126
+169,BNX011 Gensier Limited,02/01/2024,1.0,2127
+170,BNX011 Gensier Limited,02/01/2024,4.0,2121
+171,BNX011 Gensier Limited,02/01/2024,4.0,2125
+172,BNX011 Gensier Limited,02/01/2024,8.0,2209
+173,BNX011 Gensier Limited,02/01/2024,8.0,2210
+174,BNX011 Gensier Limited,02/01/2024,8.0,2211
+175,BNX011 Gensier Limited,02/01/2024,8.0,2212
+176,BNX011 Gensier Limited,02/01/2024,1.0,2214
+177,BNX011 Gensier Limited,02/01/2024,1.0,2213
+178,BNX011 Gensier Limited,02/01/2024,1.0,2215
+179,BNX011 Gensier Limited,02/01/2024,1.0,2077
+180,BNX011 Gensier Limited,02/01/2024,3.0,1782
+181,BNX011 Gensier Limited,02/01/2024,3.0,1775
+182,BNX011 Gensier Limited,02/01/2024,1.0,2200
+183,BNX011 Gensier Limited,02/01/2024,1.0,2337
+184,BNX011 Gensier Limited,02/01/2024,2.0,1842
+185,BNX011 Gensier Limited,02/01/2024,2.0,1841
+186,BNX011 Gensier Limited,02/01/2024,1.0,2407
+187,BNX011 Gensier Limited,02/01/2024,1.0,2406
+188,BNX011 Gensier Limited,02/01/2024,1.0,2408
+189,HMRC,02/01/2024,1.0,6
+190,HMRC,02/01/2024,1.0,9
+191,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2110
+192,GUX004 Asia Oriental Store Ltd.,02/01/2024,4.0,2068
+193,GUX004 Asia Oriental Store Ltd.,02/01/2024,6.0,2064
+194,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2156
+195,GUX004 Asia Oriental Store Ltd.,02/01/2024,2.0,2151
+196,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2152
+197,GUX004 Asia Oriental Store Ltd.,02/01/2024,2.0,2155
+198,GUX004 Asia Oriental Store Ltd.,02/01/2024,2.0,2158
+199,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1928
+200,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1721
+201,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1755
+202,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1738
+203,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2220
+204,GUX004 Asia Oriental Store Ltd.,02/01/2024,4.0,1921
+205,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2149
+206,GUX004 Asia Oriental Store Ltd.,02/01/2024,2.0,1812
+207,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1807
+208,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1818
+209,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1837
+210,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1839
+211,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2176
+212,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2177
+213,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2178
+214,GUX004 Asia Oriental Store Ltd.,02/01/2024,2.0,1972
+215,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1981
+216,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,1970
+217,GUX004 Asia Oriental Store Ltd.,02/01/2024,1.0,2192
+218,GUX004 Asia Oriental Store Ltd.,02/01/2024,4.0,2083
+219,GUX004 Asia Oriental Store Ltd.,02/01/2024,6.0,1789
+220,GUX004 Asia Oriental Store Ltd.,02/01/2024,10.0,1912
+221,HMRC,02/01/2024,1.0,6
+222,HMRC,02/01/2024,1.0,9
+223,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2073
+224,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2072
+225,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2071
+226,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2065
+227,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2066
+228,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2068
+229,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2227
+230,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,1910
+231,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2121
+232,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2125
+233,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2117
+234,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2118
+235,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2216
+236,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2218
+237,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2217
+238,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2209
+239,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2209
+240,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2210
+241,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2211
+242,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,2212
+243,NRX005 Lucky Gold Dragon Limited,02/01/2024,6.0,2214
+244,NRX005 Lucky Gold Dragon Limited,02/01/2024,6.0,2213
+245,NRX005 Lucky Gold Dragon Limited,02/01/2024,6.0,2215
+246,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2150
+247,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2149
+248,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2085
+249,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2080
+250,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2083
+251,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1733
+252,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1738
+253,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1737
+254,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1735
+255,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1753
+256,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1755
+257,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1751
+258,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1749
+259,NRX005 Lucky Gold Dragon Limited,02/01/2024,8.0,1774
+260,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,1853
+261,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2086
+262,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2088
+263,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,1775
+264,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,1791
+265,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,1792
+266,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2203
+267,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2199
+268,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2200
+269,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2158
+270,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2152
+271,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2356
+272,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2361
+273,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2357
+274,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2358
+275,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2359
+276,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2360
+277,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2354
+278,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2157
+279,NRX005 Lucky Gold Dragon Limited,02/01/2024,4.0,2220
+280,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1860
+281,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1868
+282,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,1800
+283,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1814
+284,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1808
+285,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1827
+286,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1820
+287,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1842
+288,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,1841
+289,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2175
+290,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,2176
+291,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2177
+292,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2174
+293,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,2178
+294,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1977
+295,NRX005 Lucky Gold Dragon Limited,02/01/2024,1.0,1866
+296,NRX005 Lucky Gold Dragon Limited,02/01/2024,2.0,1782
+297,HMRC,02/01/2024,1.0,6
+298,HMRC,02/01/2024,1.0,9
+299,LXX014 XCZ Development Ltd,02/01/2024,60.0,2190
+300,HMRC,02/01/2024,1.0,9
+301,KTX003 H-Mart,02/01/2024,100.0,1782
+302,KTX003 H-Mart,02/01/2024,400.0,1775
+303,KTX003 H-Mart,02/01/2024,100.0,1790
+304,KTX003 H-Mart,02/01/2024,50.0,1780
+305,KTX003 H-Mart,02/01/2024,50.0,1791
+306,KTX003 H-Mart,02/01/2024,50.0,1792
+307,KTX003 H-Mart,02/01/2024,50.0,1789
+308,KTX003 H-Mart,02/01/2024,50.0,1912
+309,KTX003 H-Mart,02/01/2024,400.0,1910
+310,KTX003 H-Mart,02/01/2024,600.0,2121
+311,KTX003 H-Mart,02/01/2024,600.0,2125
+312,HMRC,02/01/2024,1.0,6
+313,HMRC,02/01/2024,1.0,9
+314,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,10.0,2157
+315,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,5.0,2158
+316,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,40.0,1718
+317,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,40.0,1853
+318,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,20.0,2121
+319,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,40.0,2209
+320,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,10.0,2110
+321,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,10.0,2064
+322,MXX009 W Wing Yip (Manchester) Ltd,03/01/2024,10.0,2069
+323,HMRC,03/01/2024,1.0,6
+324,HMRC,03/01/2024,1.0,9
+325,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2154
+326,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,2080
+327,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2065
+328,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2068
+329,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2066
+330,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2069
+331,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2070
+332,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2071
+333,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2072
+334,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2073
+335,MXX023 Hang Won Hon Manchester Limited,03/01/2024,8.0,2303
+336,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2117
+337,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2118
+338,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,2125
+339,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,2121
+340,MXX023 Hang Won Hon Manchester Limited,03/01/2024,6.0,2213
+341,MXX023 Hang Won Hon Manchester Limited,03/01/2024,6.0,2215
+342,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,1710
+343,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2147
+344,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,2083
+345,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,2085
+346,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1789
+347,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2159
+348,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2151
+349,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2152
+350,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2155
+351,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1721
+352,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1719
+353,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2156
+354,MXX023 Hang Won Hon Manchester Limited,03/01/2024,10.0,1718
+355,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2149
+356,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,2150
+357,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,1853
+358,MXX023 Hang Won Hon Manchester Limited,03/01/2024,3.0,1762
+359,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1772
+360,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1769
+361,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2191
+362,MXX023 Hang Won Hon Manchester Limited,03/01/2024,2.0,2192
+363,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1989
+364,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,2093
+365,MXX023 Hang Won Hon Manchester Limited,03/01/2024,1.0,1868
+366,MXX023 Hang Won Hon Manchester Limited,03/01/2024,3.0,2202
+367,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,1792
+368,MXX023 Hang Won Hon Manchester Limited,03/01/2024,4.0,1781
+369,MXX023 Hang Won Hon Manchester Limited,03/01/2024,10.0,1775
+370,MXX023 Hang Won Hon Manchester Limited,03/01/2024,9.0,1780
+371,HMRC,03/01/2024,1.0,6
+372,HMRC,03/01/2024,1.0,9
+373,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2070
+374,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2072
+375,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2071
+376,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2065
+377,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2066
+378,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2068
+379,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2064
+380,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,2227
+381,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1710
+382,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2133
+383,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2150
+384,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2143
+385,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2144
+386,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2142
+387,LLX002 Oriental Grocery Food Store,03/01/2024,4.0,2083
+388,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2158
+389,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2152
+390,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2157
+391,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1762
+392,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,1775
+393,LLX002 Oriental Grocery Food Store,03/01/2024,4.0,1912
+394,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2253
+395,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,2258
+396,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1865
+397,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1799
+398,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1800
+399,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1803
+400,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1807
+401,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1808
+402,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1816
+403,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1821
+404,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1822
+405,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1823
+406,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1824
+407,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1830
+408,LLX002 Oriental Grocery Food Store,03/01/2024,1.0,1809
+409,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,1842
+410,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,1841
+411,LLX002 Oriental Grocery Food Store,03/01/2024,4.0,2094
+412,LLX002 Oriental Grocery Food Store,03/01/2024,2.0,1839
+413,HMRC,03/01/2024,1.0,6
+414,HMRC,03/01/2024,1.0,9
+415,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1800
+416,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1803
+417,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1804
+418,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1799
+419,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1802
+420,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1967
+421,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1808
+422,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1807
+423,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1819
+424,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1818
+425,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1817
+426,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1822
+427,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1830
+428,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1827
+429,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1810
+430,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1825
+431,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1809
+432,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2308
+433,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2309
+434,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1964
+435,CHX003 International Food Store T/A NO1 International,03/01/2024,2.0,1832
+436,CHX003 International Food Store T/A NO1 International,03/01/2024,4.0,2094
+437,CHX003 International Food Store T/A NO1 International,03/01/2024,4.0,2098
+438,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1869
+439,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2189
+440,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2188
+441,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2190
+442,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2192
+443,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2191
+444,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,2250
+445,CHX003 International Food Store T/A NO1 International,03/01/2024,8.0,1887
+446,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1775
+447,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1791
+448,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1790
+449,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1789
+450,CHX003 International Food Store T/A NO1 International,03/01/2024,1.0,1912
+451,HMRC,03/01/2024,1.0,9
+452,DYX001 OJ Industries Ltd,03/01/2024,25.0,2176
+453,DYX001 OJ Industries Ltd,03/01/2024,15.0,2177
+454,HMRC,03/01/2024,1.0,9
+455,EXX031 Wanis Ltd,03/01/2024,16.0,2189
+456,EXX031 Wanis Ltd,03/01/2024,,2235
+457,HMRC,03/01/2024,1.0,9
+458,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,109.0,1710
+459,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,15.0,1749
+460,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,3.0,1754
+461,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,3.0,1733
+462,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,9.0,1780
+463,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,60.0,1782
+464,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,60.0,1790
+465,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,84.0,1791
+466,NEX002 Junsterik Ltd T/A Hiyou by Lau's,03/01/2024,1.0,2168
+467,HMRC,03/01/2024,1.0,6
+468,HMRC,03/01/2024,1.0,9
+469,BBX001 Khanjra International Foods Limited,03/01/2024,100.0,1989
+470,BBX001 Khanjra International Foods Limited,03/01/2024,4.0,2260
+471,BBX001 Khanjra International Foods Limited,03/01/2024,1.0,2257
+472,BBX001 Khanjra International Foods Limited,03/01/2024,20.0,1791
+473,HMRC,03/01/2024,1.0,6
+474,HMRC,03/01/2024,1.0,9
+475,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2069
+476,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2070
+477,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2071
+478,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2072
+479,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2073
+480,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2303
+481,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,4.0,1853
+482,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,4.0,2094
+483,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,1789
+484,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,1912
+485,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,1859
+486,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,1829
+487,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2220
+488,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,1990
+489,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,1989
+490,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,4.0,1887
+491,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,2.0,2188
+492,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2190
+493,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2192
+494,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2191
+495,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,1735
+496,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,1736
+497,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,1737
+498,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,1738
+499,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2361
+500,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2356
+501,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2284
+502,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,12.0,2083
+503,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,20.0,2082
+504,TSX003 R Islam Ltd T/A Pakeeza Worldwide foods,03/01/2024,1.0,2148
+505,HMRC,03/01/2024,1.0,6
+506,HMRC,03/01/2024,1.0,9
+507,EXX020 Man Foods Limited,03/01/2024,40.0,2174
+508,HMRC,03/01/2024,1.0,9
+509,NEX018 DONG SHENG 888 LIMITED T/A YONG SHENG CASH AND CARRY,03/01/2024,60.0,1715
+510,NEX018 DONG SHENG 888 LIMITED T/A YONG SHENG CASH AND CARRY,03/01/2024,60.0,1820
+511,NEX018 DONG SHENG 888 LIMITED T/A YONG SHENG CASH AND CARRY,03/01/2024,,1618
+512,HMRC,03/01/2024,1.0,9
+513,POX006 Hope Lake Food Ltd,03/01/2024,100.0,1715
+514,POX006 Hope Lake Food Ltd,03/01/2024,52.0,1844
+515,HMRC,03/01/2024,1.0,9
+516,BSX016 Total Asia Food Bristol Ltd,03/01/2024,1.0,1756
+517,BSX016 Total Asia Food Bristol Ltd,03/01/2024,1.0,1721
+518,BSX016 Total Asia Food Bristol Ltd,03/01/2024,2.0,2223
+519,BSX016 Total Asia Food Bristol Ltd,03/01/2024,4.0,2086
+520,BSX016 Total Asia Food Bristol Ltd,03/01/2024,72.0,1844
+521,BSX016 Total Asia Food Bristol Ltd,03/01/2024,1.0,1962
+522,BSX016 Total Asia Food Bristol Ltd,03/01/2024,1.0,1960
+523,HMRC,03/01/2024,1.0,9
+524,TWX003 Tanpopo Japanese Food Ltd,03/01/2024,56.0,1824
+525,TWX003 Tanpopo Japanese Food Ltd,03/01/2024,10.0,1748
+526,HMRC,03/01/2024,1.0,9
+527,SAMPLEX001 Samples,03/01/2024,8.0,2071
+528,SAMPLEX001 Samples,03/01/2024,1.0,2069
+529,SAMPLEX001 Samples,03/01/2024,4.0,2064
+530,SAMPLEX001 Samples,03/01/2024,2.0,2227
+531,SAMPLEX001 Samples,03/01/2024,6.0,2065
+532,SAMPLEX001 Samples,03/01/2024,1.0,2292
+533,HMRC,03/01/2024,1.0,6
+534,HMRC,03/01/2024,1.0,9
+535,BXX012 New Harvest Wholesale Ltd,10/01/2024,20.0,2064
+536,BXX012 New Harvest Wholesale Ltd,10/01/2024,2.0,2065
+537,HMRC,10/01/2024,1.0,9
+538,ECX002 Sainsbury's Supermarkets Ltd,22/01/2024,2.0,2064
+539,HMRC,22/01/2024,1.0,9
+540,ECX002 Sainsbury's Supermarkets Ltd,12/02/2024,320.0,2068
+541,ECX002 Sainsbury's Supermarkets Ltd,12/02/2024,312.0,2121
+542,ECX002 Sainsbury's Supermarkets Ltd,12/02/2024,640.0,2064
+543,ECX002 Sainsbury's Supermarkets Ltd,12/02/2024,100.0,1710
+544,ECX002 Sainsbury's Supermarkets Ltd,12/02/2024,144.0,1799
+545,HMRC,12/02/2024,1.0,6
+546,HMRC,12/02/2024,1.0,9
+547,COX004 May May 2017 Ltd  T/A MM Oriental superstore,13/02/2024,100.0,2065
+548,COX004 May May 2017 Ltd  T/A MM Oriental superstore,13/02/2024,,1423
+549,HMRC,13/02/2024,1.0,5
+550,HMRC,13/02/2024,1.0,9
+551,ECX002 Sainsbury's Supermarkets Ltd,13/02/2024,100.0,2064
+552,HMRC,13/02/2024,1.0,9
+553,EXX062 Yohome S.Q Ltd T/A Yohome South Quay,18/03/2024,160.0,2069
+554,EXX062 Yohome S.Q Ltd T/A Yohome South Quay,18/03/2024,20.0,2066
+555,EXX062 Yohome S.Q Ltd T/A Yohome South Quay,18/03/2024,9.0,2084
+556,EXX062 Yohome S.Q Ltd T/A Yohome South Quay,18/03/2024,,1420
+557,EXX062 Yohome S.Q Ltd T/A Yohome South Quay,18/03/2024,,1645
+558,HMRC,18/03/2024,1.0,5
+559,HMRC,18/03/2024,1.0,9
